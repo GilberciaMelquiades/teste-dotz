@@ -1,7 +1,7 @@
-1 - No projeto existe um arquivo env.rb o qual possui duas variáveis para uso no projeto.
+1 -) No projeto existe um arquivo env.rb o qual possui duas variáveis para uso no projeto.
 Deve se considerar a env "api_key", caso o teste quebre por falta de autorização deve gerar uma nova,
 o appid mencionado no arquivo README.md não funciona.
 
-2 - Também no projeto eu coloquei uma pasta cenarios_web onde constam os BDDs, cenários de testes manuais e
+2 -) Também no projeto eu coloquei uma pasta cenarios_web onde constam os BDDs, cenários de testes manuais e
 suas respectivas imagem de evidencias.
 
